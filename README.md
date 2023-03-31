@@ -5,3 +5,4 @@
 En Français :
 
 In English:
+https://github.com/MoiLaVie/AzuriomRestorer/blob/main/docs/English.md
