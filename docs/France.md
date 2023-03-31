@@ -17,6 +17,6 @@ url: https://zone-delta.fr/api/skin-api/skins/
 
 Vous devez simplement installer l'API suivante sur votre Azuriom : skin-api.
 
-Une fois installé, vous devrez accéder à la configuration du plugin et modifier l'URL qui est https://zone-delta.fr/api/skin-api/skins/ par l'URL qui stocke les skins de vos joueurs.
+Une fois installé, vous devrez accéder à la configuration du plugin et modifier l'URL qui est `https://zone-delta.fr/api/skin-api/skins/` par l'URL qui stocke les skins de vos joueurs.
 
 Une fois cela fait, vous devez redémarrer votre serveur.
