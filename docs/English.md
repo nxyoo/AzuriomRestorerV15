@@ -10,6 +10,10 @@ The plugin simply works with the SkinsRestorer plugin and only in 1.12.2. (You c
 
 The configuration is presented as follows:
 
+```yml
+#Skin-API - Azurium
+url: https://zone-delta.fr/api/skin-api/skins/
+```
 
 You simply need to install the following API on your Azuriom: skin-api.
 
