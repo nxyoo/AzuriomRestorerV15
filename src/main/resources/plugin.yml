@@ -1,0 +1,5 @@
+name: AzuriomRestorer
+version: '${project.version}'
+main: fr.alouchicc.restorerweb.RestorerWeb
+authors: [ AlouchiCC ]
+api-version: 1.12
