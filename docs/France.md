@@ -4,7 +4,7 @@ Le plugin sert simplement à relier les skins d'un Azuriom à Minecraft (de faç
 
 # **Fonctionnement**
 
-Le plugin fonctionne simplement avec le plugin SkinsRestorer et uniquement en 1.12.2. (Vous pouvez installer le code source et modifier les bibliothèques pour l'avoir avec d'autres versions de Minecraft.)
+Le plugin fonctionne simplement avec le plugin [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) et uniquement en 1.12.2. (Vous pouvez installer le code source et modifier les bibliothèques pour l'avoir avec d'autres versions de Minecraft.)
 
 # **Configuration**
 
