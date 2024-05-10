@@ -5,7 +5,8 @@
 
 ## Information
 
-*NEW* : THIS VERSION USE THE VERSION 15 OF THE SKINSRESTORER AS IT BROKE THE V14 API
+**NEW** : THIS VERSION USE THE VERSION 15 OF THE SKINSRESTORER AS IT BROKE THE V14 API
+
 [AzuriomRestorer](https://github.com/MoiLaVie/AzuriomRestorer) by [Alouchi](https://github.com/MoiLaVie)
 
 ## Documentation
